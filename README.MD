@@ -1,5 +1,5 @@
 # About
-Quick page for generating QR codes from a list of "PGO" contacts stored in https://dontpad.com.  
+Quick page for generating QR codes from a list of "PGO" contacts stored in http://dontpad.com.  
 This script is improvised out of paper clips and bubble gum, **do not use it for anything serious**.
 
 # How to use
